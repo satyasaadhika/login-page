@@ -60,7 +60,7 @@ body {
 @media screen and(max-width:600px){
     
     .login-container{
-       
       width:90%;
-      max-width:none;}
-}
+      max-width:none;
+       }
+  }
